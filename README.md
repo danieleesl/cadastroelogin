@@ -6,6 +6,7 @@ Necessário ter um banco de dados dentro do MySQL Workbench com as informações
 
 Para executar a conexão com o banco de dados. Vá até a pasta conexão.PHP e coloque os dados do seu banco local.
 
+Execute para verificar se a conexão foi bem sucedida. Se sim, comente o "if else" dentro do arquivo de conexão 
 
 ### RECOMENDAÇÕES ###
 
